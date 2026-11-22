@@ -24,7 +24,7 @@ logger = logging.getLogger("main")
 
 async def main():
     if not BOT_TOKEN:
-        logger.error("BOT_TOKEN не задан в .env файле. Укажите токен бота от @BotFather.")
+        logger.error("9177803777:AAF87QC5CwW_rEh9A6608hKAzURWnDc_eNw")
         print("\nОШИБКА: BOT_TOKEN не задан. Создайте файл .env и укажите BOT_TOKEN=ваш_токен\n")
         return
 
